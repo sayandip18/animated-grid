@@ -1,1 +1,1 @@
-# animated-grid
+# Animated responsive CSS grid design
